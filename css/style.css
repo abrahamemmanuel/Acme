@@ -63,3 +63,15 @@ header .highlight, header .current a{
   color: #e8491d;
   font-weight: bold;
 }
+
+header a:hover{
+  color: grey;
+  font-weight: bold;
+}
+
+/*Show case */
+#showcase{
+  height: 400px;
+  background:url('../img/computer.jpg') no-repeat;  
+  color: black;
+}
